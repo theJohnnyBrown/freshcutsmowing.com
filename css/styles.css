@@ -10970,6 +10970,7 @@ html {
 header.masthead {
   background-image: url(/assets/img/herobg.png);
   background-size: cover;
+  background-position-y: bottom;
 }
 
 .masthead {
